@@ -1,0 +1,10 @@
+C:\Users\WaveADMINS\source\repos\Crru\Crru\bin\Debug\Crru.exe.config
+C:\Users\WaveADMINS\source\repos\Crru\Crru\bin\Debug\Crru.exe
+C:\Users\WaveADMINS\source\repos\Crru\Crru\bin\Debug\Crru.pdb
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.csproj.AssemblyReference.cache
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.crru.resources
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.csproj.GenerateResource.cache
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.csproj.CoreCompileInputs.cache
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.exe
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.pdb
+C:\Users\WaveADMINS\source\repos\Crru\Crru\obj\Debug\Crru.inputbox.resources

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|c:\\users\\waveadmins\\source\\repos\\crru\\crru\\crru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\crru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\inputbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\crru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\crru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|C:\\Users\\WaveADMINS\\source\\repos\\Crru\\crru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936218E8-A690-4BA8-A2D2-3F70D503AEC1}|Crru\\Crru.csproj|solutionrelative:crru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 297,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.cs",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\input.cs",
+              "RelativeDocumentMoniker": "Crru\\input.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\input.cs",
+              "RelativeToolTip": "Crru\\input.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:20:03.771Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "crru.cs",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\crru.cs",
+              "RelativeDocumentMoniker": "Crru\\crru.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\crru.cs",
+              "RelativeToolTip": "Crru\\crru.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAmwCQBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:19:17.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.cs",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\output.cs",
+              "RelativeDocumentMoniker": "Crru\\output.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\output.cs",
+              "RelativeToolTip": "Crru\\output.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:27:11.844Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inputbox.cs",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\inputbox.cs",
+              "RelativeDocumentMoniker": "Crru\\inputbox.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\inputbox.cs",
+              "RelativeToolTip": "Crru\\inputbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:46:10.23Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inputbox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\inputbox.cs",
+              "RelativeDocumentMoniker": "Crru\\inputbox.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\inputbox.cs [Design]",
+              "RelativeToolTip": "Crru\\inputbox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T07:50:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "crru.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\crru.cs",
+              "RelativeDocumentMoniker": "Crru\\crru.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\crru.cs [Design]",
+              "RelativeToolTip": "Crru\\crru.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:16:45.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\Program.cs",
+              "RelativeDocumentMoniker": "Crru\\Program.cs",
+              "ToolTip": "C:\\Users\\WaveADMINS\\source\\repos\\Crru\\Crru\\Program.cs",
+              "RelativeToolTip": "Crru\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:16:23.106Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
